@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HY/n3GlIbbz7P3yYRTKYdbRdTmKoCv10tPvHZUVIj4EModN5vo0laTDIynJdcmYaENmAthbMTOAR/zJ+7WPFuA==",
+  "success": true,
+  "projectFilePath": "C:\\1_Pessoal\\Estudos\\transfer\\src\\Transfer.Domain\\Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TiagoAndradeMadureir\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\TiagoAndradeMadureir\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

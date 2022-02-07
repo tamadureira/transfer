@@ -1,0 +1,12 @@
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\bin\Debug\net5.0\Transfer.Core.deps.json
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\bin\Debug\net5.0\Transfer.Core.dll
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\bin\Debug\net5.0\ref\Transfer.Core.dll
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\bin\Debug\net5.0\Transfer.Core.pdb
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.csproj.AssemblyReference.cache
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.AssemblyInfoInputs.cache
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.AssemblyInfo.cs
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.csproj.CoreCompileInputs.cache
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.dll
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\ref\Transfer.Core.dll
+C:\1_Pessoal\Estudos\transfer\src\Transfer.Core\obj\Debug\net5.0\Transfer.Core.pdb
